@@ -9,22 +9,22 @@
     background-color: rgb(0, 119, 255);
 }
 .rect{
-    width: 33.3%;
+    width: 40%;
     height: 160px;
     background-color: rgb(238, 93, 93);
 }
 .rect1{
-    width: 33.3%;
+    width: 30%;
     height: 80px;
     background-color: rgb(255, 145, 0);
 }
 .rect2{
-    width: 33.3%;
+    width: 30%;
     height: 80px;
     background-color: rgb(179, 177, 177);
 }
 .recta1{
-    width: 22.6%;
+    width: 20%;
     height:80px;
     background-color: rgb(255, 196, 0);
 }
@@ -32,12 +32,12 @@ div{
     float: left;
 }
 .recta2{
-    width: 22.6%;
+    width: 20%;
     height: 80px;
     background-color: rgb(0, 214, 203);
 }
 .rectan1{
-    width: 21.5%;
+    width: 20%;
     height: 80px;
     background-color: rgb(235, 74, 16);
 }
